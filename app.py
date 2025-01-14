@@ -1,3 +1,14 @@
+'''
+   Author  : Emon Hasan
+   Email   : iconicemon01@gmail.com
+   GitHub  : https://github.com/Md-Emon-Hasan
+   LinkedIn: https://www.linkedin.com/in/emon-hasan/
+   Date    : 01/14/2025
+   Time    : 21:08
+   Project : building ai chatbot using llama
+   Purpose : bulding a simple chatbot using llama model and groq
+'''
+
 import os
 from typing import List, Dict
 from dotenv import load_dotenv
